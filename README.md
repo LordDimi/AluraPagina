@@ -1,4 +1,4 @@
-- - - - Encriptador de Texto - - - -
+-- -- -- Encriptador de Texto -- -- --
 
   Descripción del proyecto
 
